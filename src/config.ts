@@ -10,8 +10,8 @@ import Email from "./assets/icons/email.svg";
 
 const config = {
   logoUrl: AppLogo,
-  favicon: "../favicon.ico",
-  title: "Spheron Link Tree",
+  favicon: "C:/Users/Gagandeep Kaur/Desktop/link-tree-app/favicon.ico",
+  title: "Gagan's site of 3 ",
   description:
     "Give your dApps, the wings of decentralised infrastructure with Spheron!",
   links: [
